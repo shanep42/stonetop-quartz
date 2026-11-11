@@ -27,7 +27,7 @@ This plugin accepts the following configuration options:
 
 ```yaml title="quartz.config.yaml"
 - source: "@quartz-community/content-meta"
-  enabled: true
+  enabled: false
   options:
     showReadingTime: true
     showComma: true
