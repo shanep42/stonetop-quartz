@@ -47,7 +47,7 @@ configuration:
     enableRSS: true
 plugins:
   - source: "@quartz-community/created-modified-date"
-    enabled: true
+    enabled: false
     options:
       defaultDateType: modified
       priority:
