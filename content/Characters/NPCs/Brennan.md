@@ -9,3 +9,5 @@ The Claws maimed most of Stonetop's militia to show they meant business.
 Lenox and the Grateful dealt with the threat to their new home by poisoning the Claws.
 
 Brennan escaped, and is rumored to be recruiting, maybe putting together new Claws.
+
+[[Secrets - Brennan]]
